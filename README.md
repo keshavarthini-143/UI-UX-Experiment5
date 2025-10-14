@@ -4,6 +4,7 @@
 
 To identify user pain points, write clear UX problem statements, choose appropriate research methods, and create user personas for two apps (a Government Service app and a Health app) to produce a ready-to-submit UX lab report.
 
+
 ## Algorithm:
 
 1.Select scenarios — choose the two apps: Government Service (UMANG) and Health (Doctor/Health Checker).
@@ -24,6 +25,8 @@ To identify user pain points, write clear UX problem statements, choose appropri
 8.Summarize outputs — list files, repo URL, and a short conclusion for submission.
 
 ## Output:
+![ex-5](https://github.com/user-attachments/assets/84d69026-bc84-40c5-b3c8-6afaa2c38fcd)
+<img width="1280" height="628" alt="exp-5" src="https://github.com/user-attachments/assets/3c8d7ccf-35f2-4a2d-8eda-4f1532493137" />
 
 The output of this experiment includes two fully analyzed UX project scenarios a Government Service App (UMANG) and a Health Tracking App along with their user pain points, problem statements, selected research methods, and created user personas.This experiment helped in understanding how UX design is not only about visual appearance but also about identifying real-world user challenges and finding human-centered solutions through research and design thinking.
 
