@@ -7,26 +7,25 @@ To identify user pain points, write clear UX problem statements, choose appropri
 
 ## Algorithm:
 
-1.Select scenarios — choose the two apps: Government Service (UMANG) and Health (Doctor/Health Checker).
+1.Select scenarios choose the two apps: Government Service (UMANG) and Health (Doctor/Health Checker).
 
-2.Gather initial observations — review screenshots and jot common user complaints (form confusion, long login).
+2.Gather initial observations review screenshots and jot common user complaints (form confusion, long login).
 
-3.Identify pain points — list concrete user problems for each scenario.
+3.Identify pain points list concrete user problems for each scenario.
 
-4.Write problem statements — use the template:
+4.Write problem statements use the template:
 "[User] needs a way to [achieve goal] because [obstacle], which results in [impact]."
 
-5.Choose research methods — pick methods per scenario (e.g., interviews, usability testing, surveys, A/B testing) and write brief justifications.
+5.Choose research methods pick methods per scenario (e.g., interviews, usability testing, surveys, A/B testing) and write brief justifications.
 
-6.Create personas — craft at least two personas (demographics, goals, behaviors, pain points, motivation) representing typical users.
+6.Create personas craft at least two personas (demographics, goals, behaviors, pain points, motivation) representing typical users.
 
-7.Prepare deliverables — compile content into a PDF lab report and add images; create a GitHub repo and upload the PDF.
+7.Prepare deliverables compile content into a PDF lab report and add images; create a GitHub repo and upload the PDF.
 
-8.Summarize outputs — list files, repo URL, and a short conclusion for submission.
+8.Summarize outputs list files, repo URL, and a short conclusion for submission.
 
 ## Output:
-![ex-5](https://github.com/user-attachments/assets/84d69026-bc84-40c5-b3c8-6afaa2c38fcd)
-<img width="1280" height="628" alt="exp-5" src="https://github.com/user-attachments/assets/3c8d7ccf-35f2-4a2d-8eda-4f1532493137" />
+![ex-5](https://github.com/user-attachments/assets/84d69026-bc84-40c5-b3c8-6afaa2c38fcd)<img width="580" height="1300" alt="exp-5" src="https://github.com/user-attachments/assets/3c8d7ccf-35f2-4a2d-8eda-4f1532493137" />
 
 The output of this experiment includes two fully analyzed UX project scenarios a Government Service App (UMANG) and a Health Tracking App along with their user pain points, problem statements, selected research methods, and created user personas.This experiment helped in understanding how UX design is not only about visual appearance but also about identifying real-world user challenges and finding human-centered solutions through research and design thinking.
 
