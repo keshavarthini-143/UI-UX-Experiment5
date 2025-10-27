@@ -25,7 +25,14 @@ To identify user pain points, write clear UX problem statements, choose appropri
 8.Summarize outputs list files, repo URL, and a short conclusion for submission.
 
 ## Output:
-![ex-5](https://github.com/user-attachments/assets/84d69026-bc84-40c5-b3c8-6afaa2c38fcd)<img width="580" height="1300" alt="exp-5" src="https://github.com/user-attachments/assets/3c8d7ccf-35f2-4a2d-8eda-4f1532493137" />
+![ex-5](https://github.com/user-attachments/assets/84d69026-bc84-40c5-b3c8-6afaa2c38fcd)<img width="580" height="1300" alt="exp-5" src="https://github.com/user-attachments/assets/3c8d7ccf-35f2-4a2d-8eda-4f1532493137" />.
+
+# EXAMPLE DESIGN
+
+<img width="340" height="570" alt="image" src="https://github.com/user-attachments/assets/9876d60a-1db1-499b-9784-8d9a9bd47a27" />
+<img width="337" height="567" alt="image" src="https://github.com/user-attachments/assets/3ed88444-d367-4ab6-9a15-d9bdf19b14cd" />
+
+
 
 The output of this experiment includes two fully analyzed UX project scenarios a Government Service App (UMANG) and a Health Tracking App along with their user pain points, problem statements, selected research methods, and created user personas.This experiment helped in understanding how UX design is not only about visual appearance but also about identifying real-world user challenges and finding human-centered solutions through research and design thinking.
 
